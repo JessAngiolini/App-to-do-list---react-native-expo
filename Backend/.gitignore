@@ -1,5 +1,0 @@
-# aca se sube todo lo que no queremos que se suba a github
-
-node_modules
-
-.env
